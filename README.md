@@ -16,6 +16,8 @@ https://www.ncbi.nlm.nih.gov/protein/NP_579890.1?report=fasta
 
 Работа выполнялась в коллабе, файлы были скачаны с сервера
 1 Шаг - выравнивая для 4 гистонов
+
+
 H2A 
 
 ![image](https://github.com/Ar4il/hse23_project/assets/84396301/e2813d7f-08cb-4398-ab1b-f50a3586452a)
